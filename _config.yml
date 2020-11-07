@@ -31,6 +31,7 @@ gems:
 
 # Custom variables
 version: "The personal website of Matthew Hirt"
+description: "The personal website of Matthew Hirt"
 
 # Options
 custom_header: false
