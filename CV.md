@@ -2,11 +2,11 @@
 layout: page
 title: CV
 ---
-Matthew Hirt's *Curriculum Vitae*
+# Matthew Hirt's *Curriculum Vitae*
 
 Put my CV here
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY1Njk0MDksLTMxNjk3ODEwMl19
+eyJoaXN0b3J5IjpbLTI5NDI4MTMxNiwtMzE2OTc4MTAyXX0=
 -->
