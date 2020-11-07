@@ -30,7 +30,6 @@ gems:
   - jekyll-paginate
 
 # Custom variables
-version: "The personal website of Matthew Hirt"
 description: "The personal website of Matthew Hirt"
 
 # Options
