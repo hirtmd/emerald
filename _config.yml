@@ -1,15 +1,15 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
+title: Matthew Hirt | Missiologist
+description: "The personal website of Matthew Hirt"
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Matthew Hirt"
+  email: "mhirt@sebts.edu"
+  url: "matthewhirt.gq"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
-markdown: kramdown
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: 
 source: .
 destination: ./_site
 permalink: /:title
